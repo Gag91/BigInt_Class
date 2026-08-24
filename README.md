@@ -33,7 +33,6 @@ int main() {
     // Mathematical utilities
     BigInt gcd_result = BigInt::gcd(a, b);
     BigInt sqrt_result = BigInt::sqrt(a);
-    BigInt fact = BigInt::factorial(100);  // 100! 
     
     // Display
     std::cout << "a = " << a << "\n";
