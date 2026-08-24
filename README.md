@@ -2,7 +2,6 @@
 
 [![C++](https://img.shields.io/badge/C%2B%2B-20/23/26-blue.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
 A **header-only** C++ BigInt class that can store arbitrarily large integers beyond the limits of built-in types (int, long, long long). Perfect for games, cryptography, and mathematical applications where large numbers are needed.
 
